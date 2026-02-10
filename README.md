@@ -52,7 +52,7 @@ Designed to boost player engagement with a modern, real-time GUI.
 - Sounds and titles for feedback
 
 🌐 **Multi-Version Support**
-- Compatible from Minecraft 1.8 to 1.21+
+- Compatible from Minecraft 1.10 to 1.21+
 - Universal JAR using XSeries
 - Automatic material and sound conversion
 
