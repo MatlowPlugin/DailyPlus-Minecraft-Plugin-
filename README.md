@@ -3,7 +3,7 @@
 Advanced daily rewards plugin with missions, streak system and recovery tokens.  
 Designed to boost player engagement with a modern, real-time GUI.
 
-**Minecraft Versions:** 1.8 – 1.21+  
+**Minecraft Versions:** 1.10 – 1.21+  
 **Plugin Version:** 3.6  
 **License:** MIT
 
